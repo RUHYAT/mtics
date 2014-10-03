@@ -27,6 +27,7 @@
 				<li><a href="<?php echo site_url('welcome/mstsalespic');?>">Sales PIC</a></li></li>
 				<li><a href="<?php echo site_url('welcome/mstspec');?>">Spec</a></li>
 				<li><a href="<?php echo site_url('welcome/mststatusprod');?>">Status Prod</a></li></li>
+				<li><a href="<?php echo site_url('crud/form');?>">Sales Order</a></li></li>
           </ul>
         </li>
       </ul>
